@@ -1,0 +1,97 @@
+
+
+
+.photo { 
+
+	text-align: center; 
+	border-style: double;
+	margin: 3px;
+	width: 217px;
+    height: 210px;
+
+		} 
+
+.hautdepage {
+	
+
+	background-image: linear-gradient( aqua, white ,aqua );
+	font-style: italic;
+	text-align: center;
+	margin-top: -218px;
+	border:3px solid black;
+	border-style: double; 
+	margin-left:  230px;
+    vertical-align: center;
+	width: 1282px;
+	height: 120px;
+
+		}
+
+.phrase {
+
+	background-image: linear-gradient( white, aqua );
+    font-style: aqua;
+	margin-top: 06px;
+	border:3px solid black;
+	border-style: double; 
+	margin-left:  230px;
+    text-align: center;
+    line-height: 9px;
+	width: 1282px;
+	height: 80px;
+
+
+		}
+
+.exp {
+
+	background-image: linear-gradient( yellow, white);
+	margin-top: -06px;
+	border:3px solid black;
+	border-style: double; 
+	margin: 3px;
+    text-align: center;
+	width: 40%;
+	height: 400px;
+
+		}
+
+.competences {
+
+	background-image: linear-gradient( pink, white);
+	margin-top: -409px;
+	margin-left: 620px;
+	border:3px solid black;
+	border-style: double; 
+    text-align: center;
+	width: 30%;
+	height: 400px;
+
+		}
+
+.formation {
+
+	background-image: linear-gradient( aqua, white);
+	margin-top: -406px;
+	margin-left: 1086px;
+	border:3px solid black;
+	border-style: double; 
+    text-align: center;
+	width: 426px;
+	height: 400px;
+
+		}
+.pieddepage {
+
+	background-image: linear-gradient( aqua, white);
+	margin: 3px;
+	margin-top: ;
+	border-top:  ;
+	border-left:  ;
+	text-align: center;
+	border-style: double;
+	border-style: center;
+	width: 1510px;
+	height: 80px;
+
+h1,H2 color white;
